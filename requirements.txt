@@ -1,0 +1,8 @@
+numpy==1.24.2
+opencv_contrib_python==4.5.5.62
+PyQt5==5.15.9
+PyQt_Fluent_Widgets==1.5.1
+pyrealsense2==2.53.1.4623
+python-dotenv==1.0.1
+transformations==2024.5.24
+transforms3d==0.4.1
